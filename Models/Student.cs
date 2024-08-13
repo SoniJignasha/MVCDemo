@@ -9,5 +9,7 @@ namespace MVCDemo.Models
     {
         int id{get;set;}
         string fname{get;set;}
+
+        int age{get;set;}
     }
 }
