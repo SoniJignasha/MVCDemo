@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KINJAL PATEL\\OneDrive\\Desktop\\MVCDemo-1\\MVCDemo.csproj": {}
+    "C:\\Users\\KINJAL PATEL\\OneDrive\\Desktop\\MVCDemo\\MVCDemo\\MVCDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KINJAL PATEL\\OneDrive\\Desktop\\MVCDemo-1\\MVCDemo.csproj": {
+    "C:\\Users\\KINJAL PATEL\\OneDrive\\Desktop\\MVCDemo\\MVCDemo\\MVCDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KINJAL PATEL\\OneDrive\\Desktop\\MVCDemo-1\\MVCDemo.csproj",
+        "projectUniqueName": "C:\\Users\\KINJAL PATEL\\OneDrive\\Desktop\\MVCDemo\\MVCDemo\\MVCDemo.csproj",
         "projectName": "MVCDemo",
-        "projectPath": "C:\\Users\\KINJAL PATEL\\OneDrive\\Desktop\\MVCDemo-1\\MVCDemo.csproj",
+        "projectPath": "C:\\Users\\KINJAL PATEL\\OneDrive\\Desktop\\MVCDemo\\MVCDemo\\MVCDemo.csproj",
         "packagesPath": "C:\\Users\\KINJAL PATEL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KINJAL PATEL\\OneDrive\\Desktop\\MVCDemo-1\\obj\\",
+        "outputPath": "C:\\Users\\KINJAL PATEL\\OneDrive\\Desktop\\MVCDemo\\MVCDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
